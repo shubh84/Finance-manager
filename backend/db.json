@@ -1,0 +1,310 @@
+{
+  "users": [
+    {
+      "id": "1722355171287",
+      "username": "adarsh",
+      "email": "adarsh@gmail.com",
+      "password": "$2a$10$cVroTq6FWzFAmZBse38ZLeN9LPSTxAQ7qbWxdg7hH0E5jIm53bRqK"
+    },
+    {
+      "id": "1722355435618",
+      "username": "ashrith",
+      "email": "ash@gmail.com",
+      "password": "$2a$10$T0FpepVr0pyi.MBB3t8U1.ZBEbgRDLAmuPmIfibwa4Uk391H5Pl6e"
+    },
+    {
+      "id": "1722358747950",
+      "username": "Likki",
+      "email": "likki@gmail.com",
+      "password": "$2a$10$0aTxXSiEaUU.5zfz3JC87eactreWec2E.VO38oX/iyY/5rTpQJ7Vi"
+    },
+    {
+      "id": "1722601763295",
+      "username": "Chandu",
+      "email": "chandu1969@gmail.com",
+      "password": "$2b$10$2dTVm3U0AZ/sXEG6ncFZRu0EAPMRL4WG95fJWvwMAeAw8Qhb78jKO"
+    },
+    {
+      "id": "1722839300711",
+      "username": "prakash",
+      "email": "raj@gmail.com",
+      "password": "$2b$10$E2HfhUdu4znH/gB2kVofdOSadl6TrimyG3eKu/OJxNu.PA1QCrNyy"
+    },
+    {
+      "id": "1722846365485",
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "$2b$10$a3FfXQvC7uxQkjXXdGaUvu9AH29WQM/KOssCafV5HvRGgTXNAxP26"
+    },
+    {
+      "id": "1722866593639",
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "$2b$10$b2u06PAHYja3MaMVEjf6iO6WmAeRWKu5a6YTYO3e3bNrHbFN984S2"
+    },
+    {
+      "id": "1723031634351",
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "$2b$10$LWX5R4.a.KXXc4DEhTFC0O.EhCAm4bIqyeUyXYZyLHcDGspa.3hT."
+    },
+    {
+      "id": "1723031707303",
+      "username": "prakash",
+      "email": "prakash@gmail.com",
+      "password": "$2b$10$qWHt9FOB.kyjn34OJ/SXZOXermJjAntg6O4GFm9Jh00kxEYlPjivC"
+    },
+    {
+      "id": "1723052591043",
+      "username": "testuser",
+      "email": "testuser@example.com",
+      "password": "$2b$10$nHzQvL4vD/BU47OiC6fU0uSx7wDecZJBxUUacmWI5vBgEJgU07JFK"
+    },
+    {
+      "id": "1723053360656",
+      "username": "prakash",
+      "email": "raj@gmail.com",
+      "password": "$2b$10$WuXfrO8WOyK2qtQUDn2NVO6evjCQUMM39N/N4PUbV/aSMy.m6dX16"
+    },
+    {
+      "id": "1723053546689",
+      "username": "prakash",
+      "email": "raj@gmail.com",
+      "password": "$2b$10$3ofRCAaNsK8Ur18BmSLTpO7sb7WM214ulieqbjU3hKBj/e0R.otL6"
+    },
+    {
+      "id": "1723061593545",
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "$2b$10$K4eGaMSCRrzxtCo8VRF9geq2wlhZ92/cc5N54ejxk7McBs0S3gN56"
+    },
+    {
+      "id": "1723087335911",
+      "username": "prakash",
+      "email": "prakash@gmail.com",
+      "password": "$2b$10$OVHkVbBq6D4D4Atxn2QvQO5Pm7R537Relvy.mQtYqlKw0x96jhJX2"
+    },
+    {
+      "id": "1723100418879",
+      "username": "praksh",
+      "email": "prakash@gmail.com",
+      "password": "$2b$10$603BRiVGQ/BNs3dHcgwj6uA8lRjWBgG64gLR.ZGPrnCumOPztA4RK"
+    },
+    {
+      "id": "1723135697540",
+      "username": "shubham",
+      "email": "shubham@gmail.com",
+      "password": "$2b$10$.jez6SSMrIJhK3G6Rj0eHO.hcI5QZlOmc0lQfWWHswMGNl9LOdfQS"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1722346279898",
+      "description": "money",
+      "amount": 8000,
+      "type": "income",
+      "userId": "1722355171287",
+      "date": "2024-08-02"
+    },
+    {
+      "id": "1722358054871",
+      "description": "Monthly salaryyy",
+      "amount": 150,
+      "type": "income",
+      "userId": "1722355435618",
+      "date": "2024-08-01"
+    },
+    {
+      "id": "1722399359336",
+      "description": "rent",
+      "amount": 310,
+      "type": "expense",
+      "userId": "1722355435618",
+      "date": "2024-08-22"
+    },
+    {
+      "id": "1722509926302",
+      "description": "wer",
+      "amount": 123,
+      "type": "income",
+      "userId": "1722358747950",
+      "date": "2024-08-02"
+    },
+    {
+      "id": "1722509998947",
+      "description": "dfn",
+      "amount": 56,
+      "type": "expense",
+      "userId": "1722358747950",
+      "date": "2024-08-02"
+    },
+    {
+      "id": "1722573782686",
+      "description": "dfg",
+      "amount": 78,
+      "type": "income",
+      "userId": "1722358747950",
+      "date": "2024-08-02"
+    },
+    {
+      "id": "1722582051942",
+      "description": "home",
+      "amount": 123456,
+      "type": "income",
+      "userId": "1722355435618",
+      "date": "2024-07-18"
+    },
+    {
+      "id": "1722589824069",
+      "description": "food",
+      "amount": 789,
+      "type": "income",
+      "userId": "1722355435618",
+      "date": "2024-08-02"
+    },
+    {
+      "id": "1722596674721",
+      "description": "room rent",
+      "amount": 8900,
+      "type": "expense",
+      "userId": "1722355435618",
+      "date": "2024-08-16"
+    },
+    {
+      "id": "1722611742467",
+      "description": "nana",
+      "amount": 8090,
+      "type": "income",
+      "userId": "1722355435618",
+      "date": "2024-08-09"
+    },
+    {
+      "id": "1722615365448",
+      "description": "LIkitha",
+      "amount": 2200,
+      "type": "income",
+      "userId": "1722355435618",
+      "date": "2024-08-24"
+    },
+    {
+      "id": "1722618128779",
+      "description": "laptop",
+      "amount": 78000,
+      "type": "expense",
+      "userId": "1722355435618",
+      "date": "2024-08-24"
+    },
+    {
+      "id": "1723056530504",
+      "description": "sample",
+      "amount": 900000,
+      "type": "INCOME",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723056590956",
+      "description": "sample",
+      "amount": 900000,
+      "type": "INCOME",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723056595075",
+      "description": "sample",
+      "amount": 900000,
+      "type": "INCOME",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723056598840",
+      "description": "sample",
+      "amount": 900000,
+      "type": "INCOME",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723056637182",
+      "description": "sample",
+      "amount": 900000,
+      "type": "INCOME",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723056672034",
+      "description": "sample",
+      "amount": 900000,
+      "type": "INCOME",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723056703739",
+      "description": "myday",
+      "amount": 800,
+      "type": "EXPENSE",
+      "userId": "1722839300711",
+      "date": "2024-08-07"
+    },
+    {
+      "id": "1723097491906",
+      "description": "sample",
+      "amount": 9000,
+      "type": "income",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723098720867",
+      "description": "sample",
+      "amount": 9000,
+      "type": "expense",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723099240538",
+      "description": "sample",
+      "amount": 80,
+      "type": "expense",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723099257771",
+      "description": "sample 4",
+      "amount": 50,
+      "type": "expense",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723099280784",
+      "description": "sample 4",
+      "amount": 20,
+      "type": "expense",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723099724371",
+      "description": "sample 5",
+      "amount": 10,
+      "type": "expense",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    },
+    {
+      "id": "1723101787394",
+      "description": "sample 9",
+      "amount": 5,
+      "type": "expense",
+      "userId": "1722839300711",
+      "date": "2024-08-08"
+    }
+  ]
+}
